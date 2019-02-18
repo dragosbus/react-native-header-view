@@ -6,7 +6,7 @@ import {
   View, 
   TouchableOpacity
 } from 'react-native';
-import Header from 'react-native-header-view';
+import Header from '@freakycoder/react-native-header-view';
 import Icon from "react-native-dynamic-vector-icons"
 
 export default class App extends React.Component {

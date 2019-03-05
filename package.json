@@ -23,10 +23,5 @@
     "react-native": ">= 0.55.x",
     "react-native-iphone-x-helper": ">= 1.2.x",
     "react-native-dynamic-vector-icons": ">= x.x.x"
-  },
-  "dependencies": {
-    "expo-cli": "^2.11.6",
-    "node": "^10.15.2",
-    "react-native-status-bar-height": "^2.2.0"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@freakycoder/react-native-header-view",
-  "version": "0.2.0",
-  "description": "Wrapper of react-native-vector-icons to use dynamic types.",
+  "version": "0.2.2",
+  "description": "Fully Customizable Header View for React Native.",
   "keywords": [
     "react-native",
     "icons",
@@ -23,5 +23,10 @@
     "react-native": ">= 0.55.x",
     "react-native-iphone-x-helper": ">= 1.2.x",
     "react-native-dynamic-vector-icons": ">= x.x.x"
+  },
+  "dependencies": {
+    "expo-cli": "^2.11.6",
+    "node": "^10.15.2",
+    "react-native-status-bar-height": "^2.2.0"
   }
 }
